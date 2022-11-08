@@ -4,8 +4,6 @@ Prior to starting this Command Line Training, choose an option below to setup yo
 
 ## Install Windows Subsystem for Linux (WSL)
 
-NOTE: In order to install Windows Subsystem for Linux you will need to have elevated priviledges on your machine.  
-Follow this document to request elevated priviledges for 4 hours: [IIQ Elevated Request Directions](https://onyourside-my.sharepoint.com/:w:/r/personal/karrm4_nationwide_com/_layouts/15/Doc.aspx?sourcedoc=%7B4FDF5F1C-523E-47E4-A594-3DA6F30A75C5%7D&file=IIQ%20Elevated%20Request%20Process.docx&action=default&mobileredirect=true)
 
 WSL allows users to run a Linux environment directly on Windows. For more information, reference https://docs.microsoft.com/en-us/windows/wsl/
 
